@@ -1,0 +1,12 @@
+# Concatenating strings :
+var greeting = "Hello, "
+var name = "Lema"
+
+print greeting + name + "!" # output: Hello, Lema!
+
+# Concatenating strings with numbers :  
+var name2 = "John"
+var age = 20
+
+print name2 + " is " + age + " years old!" # John is 20 years old!
+
